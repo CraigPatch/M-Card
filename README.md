@@ -1,4 +1,4 @@
-# M-Card - Invitation Project
+q# M-Card - Invitation Project
 
 A Vue 3 application built with Vite for managing invitations and scanning functionality.
 
